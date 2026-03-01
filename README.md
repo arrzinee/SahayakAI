@@ -183,7 +183,7 @@ Built on Intel i5 to prove universal accessibility - works on ANY device
 
 💻 **Live Prototype:** [Coming Soon]
 
-📧 **Contact:** [your-email@example.com]
+📧 **Contact:** Aaryan.p.singh2502@gmail.com
 
 ---
 
